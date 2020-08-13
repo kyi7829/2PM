@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+}
+
+#menu ul li {
+    float: left;
+    text-align: center;
+    width: 25%;
+}
+
+.menuLink {
+    display: inline;
+    
+}
